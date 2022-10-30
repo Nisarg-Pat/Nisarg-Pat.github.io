@@ -1,10 +1,17 @@
 import React from "react";
+import NavigationPanel from "../NavigationPanel";
+import HomeScreenComponent from "./HomeScreenComponent";
 
 const HomeScreen = () => {
     return (
-            <h1>
-                Portfolio
-            </h1>
+            <>
+                <div className="mt-2">
+                    <NavigationPanel/>
+                </div>
+
+                <HomeScreenComponent/>
+            </>
+
         )
 }
 
