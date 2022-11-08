@@ -20,3 +20,23 @@ body {
 .al-h-center {
     justify-content: center;
 }
+
+.al-left {
+    float: left;
+}
+
+.al-right {
+    float: right;
+}
+
+.al-flex {
+    display: flex;
+}
+
+.al-clear {
+    clear: both;
+}
+
+.al-block {
+    display: block;
+}
