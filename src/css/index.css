@@ -9,6 +9,24 @@ body {
     font-weight: bold;
 }
 
+.al-resume-btn {
+    background: #DDDDDD;
+    color: #111111;
+    font-weight: 500;
+}
+.al-resume-btn:hover {
+    background: var(--background-light);
+    color: #AAAAAA;
+}
+
+.al-full {
+    width: 100%;
+}
+
+.al-height-full {
+    height: 100%
+}
+
 .al-v-center {
     align-items: center;
 }

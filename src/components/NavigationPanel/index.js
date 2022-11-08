@@ -1,10 +1,16 @@
 import React from "react";
 import {Link} from "react-router-dom";
 
+import resume from "../../data/res/Resume_Nisarg_Patel.pdf"
+
 const NavigationPanel = (
     {
         active = "home"
     }) => {
+
+    const resumeButtonClick = () => {
+        window.open(resume, '_blank');
+    }
 
     return (
         <>
@@ -13,33 +19,35 @@ const NavigationPanel = (
 
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
-                        <li className="nav-item active">
+                        <li className="nav-item">
                             <Link to="/home" className={"nav-link"}>
                                 <div className={`${active === "home" ? "al-navbar-active" : ""}`}>
                                     Home
                                 </div>
                             </Link>
                         </li>
-                        <li className="nav-item active">
+                        <li className="nav-item">
                             <Link to="/experience" className={"nav-link"}>
                                 <div className={`${active === "experience" ? "al-navbar-active" : ""}`}>
                                     Experience
                                 </div>
                             </Link>
                         </li>
-                        <li className="nav-item active">
+                        <li className="nav-item">
                             <Link to="/projects" className={"nav-link"}>
                                 <div className={`${active === "project" ? "al-navbar-active" : ""}`}>
                                     Projects
                                 </div>
                             </Link>
                         </li>
-                        <li className="nav-item active">
-                            <Link to="/resume" className={"nav-link"}>
-                                <div className={`${active === "resume" ? "al-navbar-active" : ""}`}>
-                                    Resume
-                                </div>
-                            </Link>
+                        <li className="nav-item">
+                            <button className={"al-height-full al-v-center al-resume-btn"} onClick={resumeButtonClick}>Resume</button>
+
+                            {/*<a href={resume} className={"nav-link"}>*/}
+                            {/*    <div className={`${active === "resume" ? "al-navbar-active" : ""}`}>*/}
+                            {/*        Resume*/}
+                            {/*    </div>*/}
+                            {/*</a>*/}
                         </li>
                     </ul>
                 </div>
