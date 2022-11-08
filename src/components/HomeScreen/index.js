@@ -6,10 +6,11 @@ const HomeScreen = () => {
     return (
             <>
                 <div className="mt-2">
-                    <NavigationPanel/>
+                    <NavigationPanel active={"home"}/>
                 </div>
-
-                <HomeScreenComponent/>
+                <div>
+                    <HomeScreenComponent/>
+                </div>
             </>
 
         )
