@@ -7,7 +7,7 @@ const ProjectsScreen = () => {
     return (
         <>
             <div className="mt-2">
-                <NavigationPanel active={"projects"}/>
+                <NavigationPanel active={"project"}/>
             </div>
             <div>
                 <ProjectsScreenComponent/>

@@ -4,18 +4,19 @@ body {
     --background-light: rgb(32, 35, 39);
 }
 
-.al-navbar-inactive {
-    padding: 12px;
-    color: var(--color-white);
-    background-color: var(--background-light);
-}
-
-.al-navbar-inactive:hover {
-    color: var(--color-white);
-    background-color: var(--color-red);
-}
-
 .al-navbar-active {
     color: var(--color-white);
     font-weight: bold;
+}
+
+.al-v-center {
+    align-items: center;
+}
+
+.al-h-right {
+    justify-content: end;
+}
+
+.al-h-center {
+    justify-content: center;
 }

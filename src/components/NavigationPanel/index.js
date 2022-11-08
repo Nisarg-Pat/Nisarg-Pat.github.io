@@ -20,32 +20,26 @@ const NavigationPanel = (
                                 </div>
                             </Link>
                         </li>
-                        <li className="nav-item">
-                            <li className="nav-item active">
-                                <Link to="/experience" className={"nav-link"}>
-                                    <div className={`${active === "experience" ? "al-navbar-active" : ""}`}>
-                                        Experience
-                                    </div>
-                                </Link>
-                            </li>
+                        <li className="nav-item active">
+                            <Link to="/experience" className={"nav-link"}>
+                                <div className={`${active === "experience" ? "al-navbar-active" : ""}`}>
+                                    Experience
+                                </div>
+                            </Link>
                         </li>
-                        <li className="nav-item">
-                            <li className="nav-item active">
-                                <Link to="/projects" className={"nav-link"}>
-                                    <div className={`${active === "project" ? "al-navbar-active" : ""}`}>
-                                        Projects
-                                    </div>
-                                </Link>
-                            </li>
+                        <li className="nav-item active">
+                            <Link to="/projects" className={"nav-link"}>
+                                <div className={`${active === "project" ? "al-navbar-active" : ""}`}>
+                                    Projects
+                                </div>
+                            </Link>
                         </li>
-                        <li className="nav-item">
-                            <li className="nav-item active">
-                                <Link to="/resume" className={"nav-link"}>
-                                    <div className={`${active === "resume" ? "al-navbar-active" : ""}`}>
-                                        Resume
-                                    </div>
-                                </Link>
-                            </li>
+                        <li className="nav-item active">
+                            <Link to="/resume" className={"nav-link"}>
+                                <div className={`${active === "resume" ? "al-navbar-active" : ""}`}>
+                                    Resume
+                                </div>
+                            </Link>
                         </li>
                     </ul>
                 </div>
