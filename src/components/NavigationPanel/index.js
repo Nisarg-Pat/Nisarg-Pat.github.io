@@ -1,15 +1,13 @@
 import React from "react";
 import {Link} from "react-router-dom";
 
-import resume from "../../data/res/Resume_Nisarg_Patel.pdf"
-
 const NavigationPanel = (
     {
         active = "home"
     }) => {
 
     const resumeButtonClick = () => {
-        window.open(resume, '_blank');
+        window.open(process.env.PUBLIC_URL + '/res/Resume_Nisarg_Patel.pdf', '_blank');
     }
 
     return (
