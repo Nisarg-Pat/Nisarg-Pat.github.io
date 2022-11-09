@@ -14,6 +14,23 @@ body {
     color: #111111;
     font-weight: 500;
 }
+
+.al-project-name {
+    font-weight: 500;
+    font-size: 20pt;
+}
+
+.al-project-short {
+    font-weight: 500;
+    font-size: 16pt;
+}
+
+.al-project-link {
+    color: black;
+    font-weight: 500;
+    font-size: 16pt;
+}
+
 .al-resume-btn:hover {
     background: var(--background-light);
     color: #AAAAAA;
