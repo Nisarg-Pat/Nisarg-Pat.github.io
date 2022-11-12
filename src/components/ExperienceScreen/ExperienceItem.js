@@ -6,7 +6,12 @@ const ExperienceItem = ({experience}) => {
             <div className={"ps-3 pe-3"}>
                 <div className={"al-block"}>
                     <h3 className={"al-left"}>{experience.title}</h3>
-                    <h3 className={"al-right"}>{experience.startDate} - {experience.endDate}</h3>
+                    {experience.endDate !== ""
+                     ?
+                        <h3 className={"al-right"}>{experience.startDate} - {experience.endDate}</h3>
+                     :
+                        <h3 className={"al-right"}>{experience.startDate}</h3>
+                    }
                 </div>
 
                 <h3 className={"al-clear"}>{experience.place}</h3>

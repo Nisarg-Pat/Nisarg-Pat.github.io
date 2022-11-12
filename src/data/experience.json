@@ -1,24 +1,59 @@
 [
   {
-    "title": "Teaching Assistant - CS5800 Algorithms",
-    "place": "Northeastern University, Boston",
-    "startDate": "Dec, 2022",
-    "endDate": "Jan, 2023",
+    "title": "Graduate Teaching Assistant, CS5800-Algorithms",
+    "place": "Northeastern University, Boston, MA",
+    "startDate": "May, 2022",
+    "endDate": "Present",
     "description": [
-      "kjoaefoasheoaiepjf[aeofhiaefpjae",
-      "auiheofjpaefjabefuiszlkdfoasiefus",
-      "jfauighofaougfyadiufoa"
+      "Summer '22, continuing on Fall '22",
+      "Conducted weekly tutoring sessions on the prerequisites of the course and advanced topics like Dynamic Programming, Greedy, Graphs, Max Flows and NP-Completeness.",
+      "Graded weekly assignments on Gradescope and led code-walks for programming assignments.",
+      "Contributed to the content curation by providing solutions and codes for future iteratons of the course."
     ]
   },
   {
-    "title": "Teaching Assistant - CS5800 Algorithms2",
-    "place": "Northeastern University, Boston",
-    "startDate": "Dec, 2022",
-    "endDate": "Jan, 2023",
+    "title": "Software R&D Engineer",
+    "place": "Samsung Research Institute, Noida, India",
+    "startDate": "June, 2019",
+    "endDate": "July, 2021",
     "description": [
-      "kjoaefoasheoaiepjf[aeofhiaefpjae",
-      "auiheofjpaefjabefuiszlkdfoasiefus",
-      "jfauighofaougfyadiufoa"
+      "Developed of Samsung Email Application primarily involving Email Protocols with emphasis on Exchange ActiveSync protocol and Account Setup module using Android Sync Service and SQLite Database.",
+      "Implemented device policies through Email App for data security of organizations.",
+      "Upgraded UX and UI as per version and OS upgrades (primarily android Q and R OS), debugging complex problems, defect fixing, and incident handling.",
+      "Scripted Android Espresso test cases and Python Robodroid Automation using robot framework and Jenkins server.",
+      "Contributed to other modules including Email Composure, Widget and Samsung Gear Email."
+    ]
+  },
+  {
+    "title": "Software R&D Intern",
+    "place": "Samsung Research Institute, Noida, India",
+    "startDate": "January, 2019",
+    "endDate": "May, 2019",
+    "description": [
+      "Innovated the idea of a payment recommendation engine by integrating Samsung Pay with Samsung Email application.",
+      "Created a Classification software of transactional mails with Naive Bayes classifier and also with Artificial Neural Network and compared the accuracy from both. The process also involved Data gathering and refining.",
+      "Implemented the TensorFlow Lite model into the Email App to redirect and autofill the amount on Samsung Pay."
+    ]
+  },
+  {
+    "title": "Summer Research Intern",
+    "place": "DAIICT, Gandhinagar, India",
+    "startDate": "May, 2018",
+    "endDate": "August, 2018",
+    "description": [
+      "Implemented a method for Gujarati Script Character Pre-processing to be further processed by OCR.",
+      "Gathered data of Gujarati handwritten and printed documents.",
+      "Applied various refining methods like Skew Detection and Correction, Line Segmentation, Middle Zone Extraction, and Character Segmentation using OpenCV, Numpy, Scipy and Python Imaging Library."
+    ]
+  },
+  {
+    "title": "Rural Internship",
+    "place": "Himalayan Institute for Environment, Ecology and Development, Uttarakhand, India",
+    "startDate": "December 2016",
+    "endDate": "",
+    "description": [
+      "Developed an Android Application as a measure to mitigate climate change and Disaster Risk Reduction. The purpose was to aid in dissemination of information necessary during natural disasters.",
+      "Studied the current perception of villagers towards disasters through survey research."
     ]
   }
 ]
