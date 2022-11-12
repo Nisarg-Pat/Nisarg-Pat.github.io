@@ -1,35 +1,34 @@
 [
   {
-    "name": "Project01",
-    "shortDescription": "My Short Description",
-    "technologies": [
-      "ReachJS", "Node", "MongoDB"
-    ],
-    "link": "https://github.com/Nisarg-Pat/CS6650-Distributed-Systems",
+    "name": "Dungeon Escape",
+    "shortDescription": "A Graphical Adventure Game",
+    "technologies": "JAVA, Spring, JUnit, JavaDoc",
+    "link": "https://github.com/Nisarg-Pat/Dungeon-Escape",
     "description": [
-      "vasjodgpovgjnsdvjsodjijspdvniadopjv[pad",
-      "kvhaoidpvojadpfoapfjuoasihfouaipfoa[ofa[df",
-      "jvjasdhfusygcbzjnfmojfuwifpowekfjkdajfbsdgfadlskfpsooj"
+      "A role-playing adventure game using programming design principles like Model-View-Controller, SOLID properties, Abstraction and Interfaces, and Command Design Patterns.",
+      "Developed a Graphical User Interface using JAVA Swing Library and multithreading using JAVA thread and runnable.",
+      "Written thorough JUnit test cases for the program to check for proper functionality of methods and verify different scenarios.",
+      "Documented the program in JavaDoc style for better understanding of the codes."
     ]
   },
   {
-    "name": "Project01",
-    "shortDescription": "My Short Description",
-    "link": "https://herewecode.io/",
-    "technologies": [
-      "ReachJS", "Node", "MongoDB"
-    ],
+    "name": "RateMyMenu",
+    "shortDescription": "Restaurant Menu Item Rating Web application",
+    "link": "https://github.com/Nisarg-Pat/CS5610-WebDev-Rate-My-Menu",
+    "technologies": "ReachJS, Node, MongoDB, Redux, Html, CSS",
     "description": [
-      "vasjodgpovgjnsdvjsodjijspdvniadopjv[pad",
-      "kvhaoidpvojadpfoapfjuoasihfouaipfoa[ofa[df",
-      "jvjasdhfusygcbzjnfmojfuwifpowekfjkdajfbsdgfadlskfpsooj"
-    ]
+      "Website: <a href=\"https://inspiring-visvesvaraya-e2ffc2.netlify.app/a9/twitter\">Link</a>",
+      "A ReactJS based menu review portal to rate specific food items of different restaurants.",
+      "Created a server using Node to handle RESTful APIs.",
+      "Used MongoDB to store the application data in JSON.",
+      "Written privacy policy for the application that include the details of the information that is transferred between client and the application at every interactions."
+      ]
   },
   {
-    "name": "Project01",
-    "shortDescription": "My Short Description",
-    "link": "www.google.com",
-    "technologies": "ReachJS, Node, MongoDB",
+    "name": "Twitter Clone",
+    "shortDescription": "A learning project for Web Development",
+    "link": "https://github.com/Nisarg-Pat/CS5610-WebDev-Labs",
+    "technologies": "ReachJS, Node, MongoDB, Redux, Html, CSS",
     "description": [
       "vasjodgpovgjnsdvjsodjijspdvniadopjv[pad",
       "kvhaoidpvojadpfoapfjuoasihfouaipfoa[ofa[df",

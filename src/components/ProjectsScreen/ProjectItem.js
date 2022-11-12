@@ -1,5 +1,4 @@
 import React from "react";
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 
 const ProjectItem = ({project}) => {
     return(
@@ -11,9 +10,11 @@ const ProjectItem = ({project}) => {
                         <i className="fa-brands fa-github"></i>
                     </a>
                 </span>
-
+                <div>
+                    Technologies: {project.technologies}
+                </div>
                 <ul>
-                    {project.description.map((item, key) => <li>{item}</li>)}
+                    {project.description.map((item, key) => <li dangerouslySetInnerHTML={{__html:item}}/>)}
                 </ul>
             </div>
             <hr/>
