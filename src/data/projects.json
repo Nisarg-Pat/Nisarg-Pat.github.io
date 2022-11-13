@@ -13,11 +13,11 @@
   },
   {
     "name": "RateMyMenu",
-    "shortDescription": "Restaurant Menu Item Rating Web application",
+    "shortDescription": "A Restaurant Menu Item Rating Web application",
     "link": "https://github.com/Nisarg-Pat/CS5610-WebDev-Rate-My-Menu",
     "technologies": "ReachJS, Node, MongoDB, Redux, Html, CSS",
     "description": [
-      "Website: <a href=\"https://inspiring-visvesvaraya-e2ffc2.netlify.app/a9/twitter\">Link</a>",
+      "Website: <a href=\"https://funny-taffy-bc49aa.netlify.app\">Link</a>",
       "A ReactJS based menu review portal to rate specific food items of different restaurants.",
       "Created a server using Node to handle RESTful APIs.",
       "Used MongoDB to store the application data in JSON.",
@@ -30,9 +30,50 @@
     "link": "https://github.com/Nisarg-Pat/CS5610-WebDev-Labs",
     "technologies": "ReachJS, Node, MongoDB, Redux, Html, CSS",
     "description": [
+      "Website: <a href=\"https://inspiring-visvesvaraya-e2ffc2.netlify.app/a9/twitter\">Link</a>",
       "vasjodgpovgjnsdvjsodjijspdvniadopjv[pad",
       "kvhaoidpvojadpfoapfjuoasihfouaipfoa[ofa[df",
       "jvjasdhfusygcbzjnfmojfuwifpowekfjkdajfbsdgfadlskfpsooj"
     ]
+  },
+  {
+    "name": "Pokemon Battle AI",
+    "shortDescription": "An AI Bot/Simulator for Pokemon Battles",
+    "link": "https://github.com/Nisarg-Pat/CS5100-Pokemon-Battle-AI",
+    "technologies": "Python",
+    "description": []
+  },
+  {
+    "name": "Pacman AI",
+    "shortDescription": "A learning project for Artificial Intelligence",
+    "link": "https://github.com/Nisarg-Pat/CS5100-AI-Pacman-Assignments",
+    "technologies": "Python",
+    "description": ["based on Berkeley Pacman Projects"]
+  },
+  {
+    "name": "Puddle",
+    "shortDescription": "A proximity based social media mobile application",
+    "link": "https://github.com/Nisarg-Pat/NUMAD22Su_Team24_Puddle",
+    "technologies": "Android Studio, Firebase, Git",
+    "description": []
+  },
+  {
+    "name": "AdCap Clone",
+    "shortDescription": "An android implementation of AdVenture Capitalist",
+    "link": "https://github.com/Nisarg-Pat/CS5520-Android-Special-Assignments",
+    "technologies": "Android Studio, Git",
+    "description": []
+  },
+  {
+    "name": "Comparing Image Captioning Models",
+    "link": "https://github.com/Nisarg-Pat/CS6140-ML-Project",
+    "technologies": "Jupyter Notebook, Libraries: Tensorflow, Numpy, Pandas",
+    "description": []
+  },
+  {
+    "name": "Machine Learning Algorithms",
+    "link": "https://github.com/Nisarg-Pat/CS6140-ML-Assignments",
+    "technologies": "Jupyter Notebook",
+    "description": []
   }
 ]
