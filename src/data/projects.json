@@ -10,18 +10,6 @@
     ]
   },
   {
-    "name": "Dungeon Escape",
-    "shortDescription": "A Graphical Adventure Game",
-    "technologies": "JAVA, Spring, JUnit, JavaDoc",
-    "link": "https://github.com/Nisarg-Pat/Dungeon-Escape",
-    "description": [
-      "A role-playing adventure game using programming design principles like Model-View-Controller, SOLID properties, Abstraction and Interfaces, and Command Design Patterns.",
-      "Developed a Graphical User Interface using JAVA Swing Library and multithreading using JAVA thread and runnable.",
-      "Written thorough JUnit test cases for the program to check for proper functionality of methods and verify different scenarios.",
-      "Documented the program in JavaDoc style for better understanding of the codes."
-    ]
-  },
-  {
     "name": "RateMyMenu",
     "shortDescription": "A Restaurant Menu Item Rating Web application",
     "link": "https://github.com/Nisarg-Pat/CS5610-WebDev-Rate-My-Menu",
@@ -32,17 +20,6 @@
       "Created a server using Node to handle RESTful APIs.",
       "Used MongoDB to store the application data in JSON.",
       "Written privacy policy for the application that include the details of the information that is transferred between client and the application at every interactions."
-      ]
-  },
-  {
-    "name": "Twitter Clone",
-    "shortDescription": "A learning project for Web Development",
-    "link": "https://github.com/Nisarg-Pat/CS5610-WebDev-Labs",
-    "technologies": "ReachJS, Node, MongoDB, Redux, Html, CSS",
-    "description": [
-      "Website: <a href=\"https://inspiring-visvesvaraya-e2ffc2.netlify.app/a9/twitter\">Link</a>",
-      "Implemented basic functionalities of twitter web application, like Feed page and Profile page.",
-      "Created a node server to handle RESTful APIs and MongoDB to store the application data in JSON."
     ]
   },
   {
@@ -57,13 +34,35 @@
     ]
   },
   {
-    "name": "Pacman AI",
-    "shortDescription": "A learning project for Artificial Intelligence",
-    "link": "https://github.com/Nisarg-Pat/CS5100-AI-Pacman-Assignments",
-    "technologies": "Python",
+    "name": "Comparing Image Captioning Models",
+    "link": "https://github.com/Nisarg-Pat/CS6140-ML-Project",
+    "technologies": "Jupyter Notebook, Libraries: Tensorflow, Numpy, Pandas",
     "description": [
-      "These set of projects are based on <a href=\"https://inst.eecs.berkeley.edu/~cs188/fa19/projects\">Berkeley PacMan Projects</a>.",
-      "Implemented various AI Algorithms to complete the project like BFS, DFS, A* Search, Heuristic Search, Minimax, Expectimax, MDPs and Q-Learning."
+      "Implemented 3 image captioning models based on RNN, LSTM and Transformer as decoder and CNN encoder. on <a href=\"https://cocodataset.org/#home\">Microsoft COCO Dataset</a>.",
+      "Compared the models based on different metrics like BLEU, METEOR and ROUGE scores."
+    ]
+  },
+  {
+    "name": "Dungeon Escape",
+    "shortDescription": "A Graphical Adventure Game",
+    "technologies": "JAVA, Spring, JUnit, JavaDoc",
+    "link": "https://github.com/Nisarg-Pat/Dungeon-Escape",
+    "description": [
+      "A role-playing adventure game using programming design principles like Model-View-Controller, SOLID properties, Abstraction and Interfaces, and Command Design Patterns.",
+      "Developed a Graphical User Interface using JAVA Swing Library and multithreading using JAVA thread and runnable.",
+      "Written thorough JUnit test cases for the program to check for proper functionality of methods and verify different scenarios.",
+      "Documented the program in JavaDoc style for better understanding of the codes."
+    ]
+  },
+  {
+    "name": "Twitter Clone",
+    "shortDescription": "A learning project for Web Development",
+    "link": "https://github.com/Nisarg-Pat/CS5610-WebDev-Labs",
+    "technologies": "ReachJS, Node, MongoDB, Redux, Html, CSS",
+    "description": [
+      "Website: <a href=\"https://inspiring-visvesvaraya-e2ffc2.netlify.app/a9/twitter\">Link</a>",
+      "Implemented basic functionalities of twitter web application, like Feed page and Profile page.",
+      "Created a node server to handle RESTful APIs and MongoDB to store the application data in JSON."
     ]
   },
   {
@@ -76,12 +75,13 @@
     ]
   },
   {
-    "name": "Comparing Image Captioning Models",
-    "link": "https://github.com/Nisarg-Pat/CS6140-ML-Project",
-    "technologies": "Jupyter Notebook, Libraries: Tensorflow, Numpy, Pandas",
+    "name": "Pacman AI",
+    "shortDescription": "A learning project for Artificial Intelligence",
+    "link": "https://github.com/Nisarg-Pat/CS5100-AI-Pacman-Assignments",
+    "technologies": "Python",
     "description": [
-      "Implemented 3 image captioning models based on RNN, LSTM and Transformer as decoder and CNN encoder. on <a href=\"https://cocodataset.org/#home\">Microsoft COCO Dataset</a>.",
-      "Compared the models based on different metrics like BLEU, METEOR and ROUGE scores."
+      "These set of projects are based on <a href=\"https://inst.eecs.berkeley.edu/~cs188/fa19/projects\">Berkeley PacMan Projects</a>.",
+      "Implemented various AI Algorithms to complete the project like BFS, DFS, A* Search, Heuristic Search, Minimax, Expectimax, MDPs and Q-Learning."
     ]
   },
   {
