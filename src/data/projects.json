@@ -45,7 +45,7 @@
   {
     "name": "Dungeon Escape",
     "shortDescription": "A Graphical Adventure Game",
-    "technologies": "JAVA, Spring, JUnit, JavaDoc",
+    "technologies": "JAVA, Swing, JUnit, JavaDoc",
     "link": "https://github.com/Nisarg-Pat/Dungeon-Escape",
     "description": [
       "A role-playing adventure game using programming design principles like Model-View-Controller, SOLID properties, Abstraction and Interfaces, and Command Design Patterns.",
