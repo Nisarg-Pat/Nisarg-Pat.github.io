@@ -1,5 +1,15 @@
 [
   {
+    "name": "Puddle",
+    "shortDescription": "A proximity based social media mobile application",
+    "link": "https://github.com/Nisarg-Pat/NUMAD22Su_Team24_Puddle",
+    "technologies": "Android Studio, Firebase, Firestore, Git",
+    "description": [
+      "Developed a full-fledged android application for location based event and interest groups.",
+      "Used Firebase Real Time Database for storing application data and Firebase Storage for images."
+    ]
+  },
+  {
     "name": "Dungeon Escape",
     "shortDescription": "A Graphical Adventure Game",
     "technologies": "JAVA, Spring, JUnit, JavaDoc",
@@ -31,9 +41,8 @@
     "technologies": "ReachJS, Node, MongoDB, Redux, Html, CSS",
     "description": [
       "Website: <a href=\"https://inspiring-visvesvaraya-e2ffc2.netlify.app/a9/twitter\">Link</a>",
-      "vasjodgpovgjnsdvjsodjijspdvniadopjv[pad",
-      "kvhaoidpvojadpfoapfjuoasihfouaipfoa[ofa[df",
-      "jvjasdhfusygcbzjnfmojfuwifpowekfjkdajfbsdgfadlskfpsooj"
+      "Implemented basic functionalities of twitter web application, like Feed page and Profile page.",
+      "Created a node server to handle RESTful APIs and MongoDB to store the application data in JSON."
     ]
   },
   {
@@ -41,39 +50,46 @@
     "shortDescription": "An AI Bot/Simulator for Pokemon Battles",
     "link": "https://github.com/Nisarg-Pat/CS5100-Pokemon-Battle-AI",
     "technologies": "Python",
-    "description": []
+    "description": [
+      "Created a PvP command line based pokemon battle simulator.",
+      "Created different AI agents to play the game and compared the performance of each agent.",
+      "Agents include Epsilon-Greedy, MiniMax, Expectimax, and Approximate Q-Learning Agents."
+    ]
   },
   {
     "name": "Pacman AI",
     "shortDescription": "A learning project for Artificial Intelligence",
     "link": "https://github.com/Nisarg-Pat/CS5100-AI-Pacman-Assignments",
     "technologies": "Python",
-    "description": ["based on Berkeley Pacman Projects"]
-  },
-  {
-    "name": "Puddle",
-    "shortDescription": "A proximity based social media mobile application",
-    "link": "https://github.com/Nisarg-Pat/NUMAD22Su_Team24_Puddle",
-    "technologies": "Android Studio, Firebase, Git",
-    "description": []
+    "description": [
+      "These set of projects are based on <a href=\"https://inst.eecs.berkeley.edu/~cs188/fa19/projects\">Berkeley PacMan Projects</a>.",
+      "Implemented various AI Algorithms to complete the project like BFS, DFS, A* Search, Heuristic Search, Minimax, Expectimax, MDPs and Q-Learning."
+    ]
   },
   {
     "name": "AdCap Clone",
     "shortDescription": "An android implementation of AdVenture Capitalist",
     "link": "https://github.com/Nisarg-Pat/CS5520-Android-Special-Assignments",
     "technologies": "Android Studio, Git",
-    "description": []
+    "description": [
+      "Developed a clone of popular mobile game Adventure Capitalist."
+    ]
   },
   {
     "name": "Comparing Image Captioning Models",
     "link": "https://github.com/Nisarg-Pat/CS6140-ML-Project",
     "technologies": "Jupyter Notebook, Libraries: Tensorflow, Numpy, Pandas",
-    "description": []
+    "description": [
+      "Implemented 3 image captioning models based on RNN, LSTM and Transformer as decoder and CNN encoder. on <a href=\"https://cocodataset.org/#home\">Microsoft COCO Dataset</a>.",
+      "Compared the models based on different metrics like BLEU, METEOR and ROUGE scores."
+    ]
   },
   {
     "name": "Machine Learning Algorithms",
     "link": "https://github.com/Nisarg-Pat/CS6140-ML-Assignments",
     "technologies": "Jupyter Notebook",
-    "description": []
+    "description": [
+      "Implemented various machine learning algorithms such as Decision Tree Classifier, Linear Regression, Logistic Regression, Perceptron, Naive-Bayes Classification, Support-Vector Machines, Neural Networks, Random Forest, Expectation Maximization, Gaussian Mixture Models, Principle Component Analysis and Outlier Detection."
+    ]
   }
 ]
