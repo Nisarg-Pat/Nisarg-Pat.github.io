@@ -2,6 +2,7 @@ body {
     --color-white: #FFFFFF;
     --color-red: #9B111E;
     --background-light: rgb(32, 35, 39);
+    overflow-y: scroll;
 }
 
 .al-navbar-active {
@@ -9,11 +10,7 @@ body {
     font-weight: bold;
 }
 
-.al-resume-btn {
-    background: #DDDDDD;
-    color: #111111;
-    font-weight: 500;
-}
+
 
 .al-project-name {
     font-weight: 500;
@@ -31,8 +28,39 @@ body {
     font-size: 16pt;
 }
 
+.al-resume-btn {
+    background: #DDDDDD;
+    color: #111111;
+    font-weight: 500;
+    transition: color 200ms ease-in-out 0ms, background 200ms ease-in-out 0ms;
+}
+
 .al-resume-btn:hover {
     background: var(--background-light);
+    color: #AAAAAA;
+}
+
+.al-profile-img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 16px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.al-profile-disc {
+    padding-top: 16px;
+}
+
+.al-icon-link {
+    color: white;
+    padding: 4px;
+    font-size: 32px;
+    transition: color 200ms ease-in 0ms;
+}
+
+.al-icon-link:hover {
     color: #AAAAAA;
 }
 

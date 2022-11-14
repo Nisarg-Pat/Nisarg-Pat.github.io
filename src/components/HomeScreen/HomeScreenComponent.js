@@ -5,7 +5,10 @@ import about from "../../data/about.json"
 const HomeScreenComponent = () => {
     return (
         <>
-        {about.details.map((item, key) => <p> {item} </p>)}
+            <img src={"/images/profile.png"} alt={"Profile Image"} className={"al-profile-img"}/>
+            <div className={"al-profile-disc"}>
+                {about.details.map((item, key) => <p> {item} </p>)}
+            </div>
         </>
     )
 }

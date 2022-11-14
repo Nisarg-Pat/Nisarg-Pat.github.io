@@ -10,12 +10,18 @@ function App() {
   return (
     <BrowserRouter>
         <div className="container">
-            <Routes>
-                <Route path={"/"} element={<HomeScreen/>}/>
-                <Route path={"/home"} element={<HomeScreen/>}/>
-                <Route path={"/experience"} element={<ExperienceScreen/>}/>
-                <Route path={"/projects"} element={<ProjectsScreen/>}/>
-            </Routes>
+            <div className={"row"}>
+                <div className={"col-2"}/>
+                <div className={"col-8"}>
+                    <Routes>
+                        <Route path={"/"} element={<HomeScreen/>}/>
+                        <Route path={"/home"} element={<HomeScreen/>}/>
+                        <Route path={"/experience"} element={<ExperienceScreen/>}/>
+                        <Route path={"/projects"} element={<ProjectsScreen/>}/>
+                    </Routes>
+                </div>
+                <div className={"col-2"}/>
+            </div>
         </div>
     </BrowserRouter>
   );

@@ -3,7 +3,7 @@
     "name": "Puddle",
     "shortDescription": "A proximity based social media mobile application",
     "link": "https://github.com/Nisarg-Pat/NUMAD22Su_Team24_Puddle",
-    "technologies": "Android Studio, Firebase, Firestore, Git",
+    "technologies": "Android Studio, Firebase, Git",
     "description": [
       "Developed a full-fledged android application for location based event and interest groups.",
       "Used Firebase Real Time Database for storing application data and Firebase Storage for images."

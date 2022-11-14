@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 
 import './css/index.css';
 import "./vendors/bootstrap-5.2.2-dist/css/bootstrap.css"
+import "./vendors/coreui-icons-master/css/brand.css"
 
 import App from './App';
 
