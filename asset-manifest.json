@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d6ee992.css",
-    "main.js": "/static/js/main.b2b67837.js",
+    "main.css": "/static/css/main.56f57833.css",
+    "main.js": "/static/js/main.9a96b8c2.js",
     "static/media/CoreUI-Icons-Brand.svg?64h6xh": "/static/media/CoreUI-Icons-Brand.20a78c35662958a5396b.svg",
     "static/media/CoreUI-Icons-Brand.eot?64h6xh": "/static/media/CoreUI-Icons-Brand.21dfe7bdbd85a3bf79fc.eot",
     "static/media/CoreUI-Icons-Brand.ttf?64h6xh": "/static/media/CoreUI-Icons-Brand.1a6b7360cd1872e4dc21.ttf",
     "static/media/CoreUI-Icons-Brand.woff?64h6xh": "/static/media/CoreUI-Icons-Brand.6a731272021a4183414b.woff",
     "index.html": "/index.html",
-    "main.4d6ee992.css.map": "/static/css/main.4d6ee992.css.map",
-    "main.b2b67837.js.map": "/static/js/main.b2b67837.js.map"
+    "main.56f57833.css.map": "/static/css/main.56f57833.css.map",
+    "main.9a96b8c2.js.map": "/static/js/main.9a96b8c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d6ee992.css",
-    "static/js/main.b2b67837.js"
+    "static/css/main.56f57833.css",
+    "static/js/main.9a96b8c2.js"
   ]
 }
