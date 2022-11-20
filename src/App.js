@@ -15,7 +15,7 @@ function App() {
                 <div className={"col-8"}>
                     <Routes>
                         <Route path={"/"} element={<HomeScreen/>}/>
-                        <Route path={"/home"} element={<HomeScreen/>}/>
+                        <Route path={"/about"} element={<HomeScreen/>}/>
                         <Route path={"/experience"} element={<ExperienceScreen/>}/>
                         <Route path={"/projects"} element={<ProjectsScreen/>}/>
                     </Routes>

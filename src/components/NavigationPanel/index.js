@@ -13,14 +13,14 @@ const NavigationPanel = (
     return (
         <>
             <nav className="navbar navbar-expand-lg  navbar-dark bg-dark">
-                <Link to="/home" className={"navbar-brand ps-3"}>Nisarg Patel</Link>
+                <Link to="/about" className={"navbar-brand ps-3"}>Nisarg Patel</Link>
 
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto">
                         <li className="nav-item">
-                            <Link to="/home" className={"nav-link"}>
+                            <Link to="/about" className={"nav-link"}>
                                 <div className={`${active === "home" ? "al-navbar-active" : ""}`}>
-                                    Home
+                                    About
                                 </div>
                             </Link>
                         </li>
