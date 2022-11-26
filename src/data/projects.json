@@ -1,5 +1,15 @@
 [
   {
+    "name": "Distributed Key-Value Store",
+    "shortDescription": "A Java RMI based Multi-Threaded Database",
+    "link": "https://github.com/Nisarg-Pat/CS6650-Distributed-Systems-Assignments/tree/main/Project03",
+    "technologies": "Java, Docker, Shell Scripting",
+    "description": [
+      "Implemented a distributed system using JAVA RMI that follows basic principles of distributed computing including concurrency, data replication, consistency.",
+      "Programed distributed algorithms like Two-Phase Commit Protocol."
+    ]
+  },
+  {
     "name": "Puddle",
     "shortDescription": "A proximity based social media mobile application",
     "link": "https://github.com/Nisarg-Pat/NUMAD22Su_Team24_Puddle",
