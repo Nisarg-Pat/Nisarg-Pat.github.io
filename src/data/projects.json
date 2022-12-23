@@ -1,12 +1,13 @@
 [
   {
-    "name": "Distributed Key-Value Store",
-    "shortDescription": "A Java RMI based Multi-Threaded Database",
-    "link": "https://github.com/Nisarg-Pat/CS6650-Distributed-Systems-Assignments/tree/main/Project03",
-    "technologies": "Java, Docker, Shell Scripting",
+    "name": "BookKeeper",
+    "shortDescription": "A Spring Boot + ReactJS based Distributed Web Application",
+    "link": "https://github.com/Nisarg-Pat/CS6650-Distributed-Systems-Project",
+    "technologies": "Spring, Java, React, Maven",
     "description": [
-      "Implemented a distributed system using JAVA RMI that follows basic principles of distributed computing including concurrency, data replication, consistency.",
-      "Programed distributed algorithms like Two-Phase Commit Protocol."
+      "Implemented a simple e-commerce distributed application that follows basic principles of distributed computing including concurrency, data replication, consistency.",
+      "Created a Java server using Spring Spring JPA to store persistent data. The font-end application is created using ReactJS.",
+      "Programed distributed algorithms like Two-Phase Commit Protocol, Paxos, Ricart-Agrawala Mutual Exclusion, Vector Timestamps and Replicated Data Management."
     ]
   },
   {
@@ -30,6 +31,16 @@
       "Created a server using Node to handle RESTful APIs.",
       "Used MongoDB to store the application data in JSON.",
       "Written privacy policy for the application that include the details of the information that is transferred between client and the application at every interactions."
+    ]
+  },
+  {
+    "name": "Distributed Key-Value Store",
+    "shortDescription": "A Java RMI based Multi-Threaded Database",
+    "link": "https://github.com/Nisarg-Pat/CS6650-Distributed-Systems-Assignments/tree/main/Project03",
+    "technologies": "Java, Docker, Shell Scripting",
+    "description": [
+      "Implemented a distributed system using JAVA RMI that follows basic principles of distributed computing including concurrency, data replication, consistency.",
+      "Programed distributed algorithms like Two-Phase Commit Protocol."
     ]
   },
   {
