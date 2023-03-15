@@ -6,7 +6,7 @@
     "technologies": "Spring, Java, React, Maven",
     "description": [
       "Implemented a simple e-commerce distributed application that follows basic principles of distributed computing including concurrency, data replication, consistency.",
-      "Created a Java server using Spring Spring JPA to store persistent data. The font-end application is created using ReactJS.",
+      "Created a Java server using Spring JPA to store persistent data. The font-end application is created using ReactJS.",
       "Programed distributed algorithms like Two-Phase Commit Protocol, Paxos, Ricart-Agrawala Mutual Exclusion, Vector Timestamps and Replicated Data Management."
     ]
   },

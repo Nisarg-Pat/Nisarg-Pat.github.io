@@ -23,3 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 /.idea/
 /src/vendors/
+/public/res/Cover_Letter_Nisarg_Patel_SE.docx
