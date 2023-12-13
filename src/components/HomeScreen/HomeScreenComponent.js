@@ -7,7 +7,7 @@ const HomeScreenComponent = () => {
         <>
             <img src={"/images/profile.jpg"} alt={"Profile Image"} className={"al-profile-img"}/>
             <div className={"al-profile-disc"}>
-                {about.details.map((item, key) => <p> {item} </p>)}
+                {about.details.map((item, key) => <p dangerouslySetInnerHTML={{ __html: item }}/> )}
             </div>
         </>
     )

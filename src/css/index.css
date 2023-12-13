@@ -52,6 +52,10 @@ body {
     text-align: justify;
 }
 
+.al-profile-link {
+    text-decoration: none;
+}
+
 .al-icon-link {
     color: white;
     padding: 4px;

@@ -1,5 +1,19 @@
 [
   {
+    "title": "Software Engineer",
+    "place": "Metro Mobility, Cambridge, MA",
+    "startDate": "March, 2023",
+    "endDate": "Present",
+    "description": [
+      "Primary Developer of Android, and iOS Applications, Django-based Server, and Fleet Management System.",
+      "Designed and implemented secure communication protocols between cloud services, firmware, and client apps.",
+      "Developed IoT firmware for cross-platform compatibility and implemented theft detection and prevention algorithms.",
+      "Implemented new features and bug fixes to enhance user experience and functionality.",
+      "Automated CI/CD pipeline with Docker, Heroku, and AWS for efficient deployment and scaling.",
+      "Created a Unified Telemetry Gateway System, simplifying fleet management by integrating various vehicle providers into a single portal."
+  ]
+  },
+  {
     "title": "Graduate Teaching Assistant",
     "place": "Northeastern University, Boston, MA",
     "startDate": "May, 2022",
